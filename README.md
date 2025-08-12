@@ -27,17 +27,18 @@
   
 - 코드 설계, 아키텍처, 데이터베이스 설계 등 기술적 세부 사항<br /><br />
 
-(사용자 화면)
-![image.png](attachment:4172918a-f081-4592-acec-a5250a130b97:03df4f0a-a003-4ff0-910e-b8b892a073d3.png)
+(사용자 화면)<br />
+<img width="1327" height="957" alt="Image" src="https://github.com/user-attachments/assets/303aad04-5db3-40ed-aa93-cea81334e821" />
 
-(Opensearch 데이터 적재 현황)
-![스크린샷 2025-08-12 오후 6.32.48.png](attachment:622536a3-e4d6-4d0b-b266-c3d730717a09:850e4c8c-e72e-4c64-b175-4c2e9eb56e18.png)
+(Opensearch 데이터 적재 현황)<br />
+<img width="2000" height="1045" alt="Image" src="https://github.com/user-attachments/assets/8e57b4f5-05bd-4ebd-920b-141d4bc9f7dc" />
 
-(rdb 테이블)
-![스크린샷 2025-08-12 오후 6.46.18.png](attachment:7047c4e5-466d-42ee-bfb3-9d1edee1c9d0:스크린샷_2025-08-12_오후_6.46.18.png)
+(postgresql 테이블)<br />
+<img width="546" height="334" alt="Image" src="https://github.com/user-attachments/assets/ff41b660-c875-44e5-9f20-334f71dafb08" />
 
-(구성도)
-![image.png](attachment:87b7dca5-3c4d-411b-95ce-d9c63d81e095:image.png)
+(구성도)<br />
+![Image](https://github.com/user-attachments/assets/78958686-7ef8-454f-914f-fe93c8037920)
+
 
 ## 4. 결과 및 성과
 
