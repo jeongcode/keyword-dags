@@ -12,6 +12,7 @@
   >프레임워크, 툴 : React, Spring, Apache Airflow<br />
   >데이터베이스 : Postgresql<br />
   >검색엔진 : Opensearch<br />
+  >버전 : react(19), node(22.17.1), java(17), python(3.12), airflow(3.0.3), Opensearch(3.1.0) => 최신/사용률/LTS/각 개발환경 상성 고려하여 알맞은 버전으로 선정
 
 ## 3. 상세 구현 내용
 
