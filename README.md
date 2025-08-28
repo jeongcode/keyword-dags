@@ -53,7 +53,7 @@
 2. 클라우드 배포, 배포 자동화 (완료:+12h)<br />
    - 도메인 및 인증서 적용<br />
    <img width="1021" height="537" alt="Image" src="https://github.com/user-attachments/assets/666cb61e-8442-409f-92f2-88107f8156c7" />
-   - aws 배포, 배포 자동화 github actions 배포 자동화 적용
+   - aws 배포, 배포 자동화 github actions 배포 자동화 적용<br />
    <img width="968" height="517" alt="Image" src="https://github.com/user-attachments/assets/39ae2a69-8616-42d2-91bc-ed66b156333d" />
 3. 성능향상을 위한 소스 개선, 파이프라인/서버 관리 <br />
 등에 대해 알아보면 좋을 것 같다.
