@@ -31,26 +31,29 @@
 (사용자 화면)<br />
 <img width="1327" height="957" alt="Image" src="https://github.com/user-attachments/assets/303aad04-5db3-40ed-aa93-cea81334e821" />
 
-(Opensearch 데이터 적재 현황)<br />
+(Opensearch 모니터링 대시보드)<br />
 <img width="2000" height="1045" alt="Image" src="https://github.com/user-attachments/assets/8e57b4f5-05bd-4ebd-920b-141d4bc9f7dc" />
 
 (postgresql 테이블)<br />
 <img width="546" height="334" alt="Image" src="https://github.com/user-attachments/assets/ff41b660-c875-44e5-9f20-334f71dafb08" />
 
-(구성도)<br />
-![Image](https://github.com/user-attachments/assets/78958686-7ef8-454f-914f-fe93c8037920)
+(운영 아키텍처)
+<img width="968" height="517" alt="Image" src="https://github.com/user-attachments/assets/e472f4a2-08bd-477f-ada7-5d935311b921" />
 
+(sw 구성도)<br />
+![Image](https://github.com/user-attachments/assets/78958686-7ef8-454f-914f-fe93c8037920)
 
 ## 4. 결과 및 성과
 
-- 프로젝트 결과(배포, 사용자 수, 매출 증대 등 수치, 지표) : 배포X, 개인 로컬 프로젝트<br />
-- 얻은 경험 및 배운 점 : 데이터를 수집.적재를 자동화하는 일련의 과정을 경험해 볼 수 있었다.<br /><br />
+- 프로젝트 결과(배포, 사용자 수, 매출 증대 등 수치, 지표) : aws 배포/배포자동화, 개인 프로젝트<br />
+- 얻은 경험 및 배운 점 : 데이터를 수집.적재를 자동화하는 일련의 과정을 경험하고 클라우드 배포 및 배포를 자동화를 직접 적용해보면서 운영환경에 대한 생각을 해보는 계기가 되었다.<br /><br />
 
 ## 5. 기타 추가 요소
 
 - 향후 개선 사항이나 보완 계획 : <br />
 1. 추가 상세 테스트 및 오류 모니터링 관련 사항 미비 <br />
-2. 클라우드 배포, 배포 자동화<br />
+2. 클라우드 배포, 배포 자동화 <br />
+   - aws 배포, 배포 자동화 github actions 배포 자동화 적용 완료(8월:+12h)
 3. 성능향상을 위한 소스 개선, 파이프라인/서버 관리 <br />
 등에 대해 알아보면 좋을 것 같다.
 
