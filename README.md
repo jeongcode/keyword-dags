@@ -13,7 +13,7 @@
   >데이터베이스 : Postgresql<br />
   >검색엔진 : Opensearch<br />
   >버전 : react(19), node(22.17.1), java(17), python(3.12), airflow(3.0.3), Opensearch(3.1.0) => 최신/사용률/LTS/각 개발환경 상성 고려하여 알맞은 버전으로 선정
-  >배포 : Github, Github Actions, AWS
+  >배포 : Github, Github Actions, AWS, Docker
 
 ## 3. 상세 구현 내용
 
@@ -38,9 +38,6 @@
 (postgresql 테이블)<br />
 <img width="546" height="334" alt="Image" src="https://github.com/user-attachments/assets/ff41b660-c875-44e5-9f20-334f71dafb08" />
 
-(aws 아키텍처)
-<img width="968" height="517" alt="Image" src="https://github.com/user-attachments/assets/39ae2a69-8616-42d2-91bc-ed66b156333d" />
-
 (sw 구성도)<br />
 ![Image](https://github.com/user-attachments/assets/78958686-7ef8-454f-914f-fe93c8037920)
 
@@ -53,9 +50,11 @@
 
 - 향후 개선 사항이나 보완 계획 : <br />
 1. 추가 상세 테스트 및 오류 모니터링 관련 사항 미비 <br />
-2. 클라우드 배포, 배포 자동화 <br />
-   - 도메인 및 인증서 적용
-   - aws 배포, 배포 자동화 github actions 배포 자동화 적용 완료(8월:+12h)
+2. 클라우드 배포, 배포 자동화 (완료:+12h)<br />
+   - 도메인 및 인증서 적용<br />
+   <img width="1021" height="537" alt="Image" src="https://github.com/user-attachments/assets/666cb61e-8442-409f-92f2-88107f8156c7" />
+   - aws 배포, 배포 자동화 github actions 배포 자동화 적용
+   <img width="968" height="517" alt="Image" src="https://github.com/user-attachments/assets/39ae2a69-8616-42d2-91bc-ed66b156333d" />
 3. 성능향상을 위한 소스 개선, 파이프라인/서버 관리 <br />
 등에 대해 알아보면 좋을 것 같다.
 
